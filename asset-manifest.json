@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/upadhyayayush/static/css/main.bf538fe7.css",
+    "main.js": "/upadhyayayush/static/js/main.05998c55.js",
+    "static/media/HeroImage.jpg": "/upadhyayayush/static/media/HeroImage.695129785f4345037d3c.jpg",
+    "index.html": "/upadhyayayush/index.html",
+    "main.bf538fe7.css.map": "/upadhyayayush/static/css/main.bf538fe7.css.map",
+    "main.05998c55.js.map": "/upadhyayayush/static/js/main.05998c55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.05998c55.js"
+  ]
+}
