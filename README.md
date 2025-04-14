@@ -6,9 +6,11 @@ This showcases my projects, skills, and contact information.
 🌐 [Live Site](https://AyushUpadhyay11.github.io/upadhyayayush)
 
 ## 🔧 Tech Stack
+
 - React.js
 - HTML, CSS
 - GitHub Pages (for hosting)
 
 ## 📫 Contact
-Email: your@email.com
+
+Email: ayushu031@gmail.com
