@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/upadhyayayush/static/css/main.5be86f73.css",
-    "main.js": "/upadhyayayush/static/js/main.6ac2dbd7.js",
+    "main.js": "/upadhyayayush/static/js/main.bac27b8a.js",
     "static/media/HeroImage.jpg": "/upadhyayayush/static/media/HeroImage.695129785f4345037d3c.jpg",
     "index.html": "/upadhyayayush/index.html",
     "main.5be86f73.css.map": "/upadhyayayush/static/css/main.5be86f73.css.map",
-    "main.6ac2dbd7.js.map": "/upadhyayayush/static/js/main.6ac2dbd7.js.map"
+    "main.bac27b8a.js.map": "/upadhyayayush/static/js/main.bac27b8a.js.map"
   },
   "entrypoints": [
     "static/css/main.5be86f73.css",
-    "static/js/main.6ac2dbd7.js"
+    "static/js/main.bac27b8a.js"
   ]
 }
